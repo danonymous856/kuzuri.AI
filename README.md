@@ -1,4 +1,4 @@
-# kuzuri.AI is a Not So really AI who talks to you listen coomand at it's  optimum.
+# kuzuri.AI is a Not So really AI who talks to you  and listens to your commands at it's  optimum.
 Feel free to fork , pull ,edit the repo and at the same time looking forward to make this more robust. 
 
 Speech recognition engine/API support:
@@ -15,7 +15,7 @@ Snowboy Hotword Detection (works offline)
 
 ![alt text](https://www.state.gov/wp-content/uploads/2021/06/AI-Motherboard-scaled.jpg)
 
-Requirements
+# Requirements
 To use all of the functionality of the library, you should have:
 
 Python 2.6, 2.7, or 3.3+ (required)

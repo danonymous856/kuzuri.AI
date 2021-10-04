@@ -13,7 +13,7 @@ Houndify API
 IBM Speech to Text
 Snowboy Hotword Detection (works offline)
 
-https://www.state.gov/wp-content/uploads/2021/06/AI-Motherboard-scaled.jpg
+![alt text](https://www.state.gov/wp-content/uploads/2021/06/AI-Motherboard-scaled.jpg)
 
 Requirements
 To use all of the functionality of the library, you should have:
